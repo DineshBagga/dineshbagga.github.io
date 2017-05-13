@@ -3,29 +3,26 @@ body {
     padding: 0;
 }
 
-#section_1 {
-    top: 0;
+section{
     position: absolute;
     width: 100%;
     height: 100%;
+}
+
+#section_1 {
+    top: 0;
     background: url("pic1.jpg") no-repeat;
     background-size: cover;
     }
 
 #section_2 {
     top: 100%;
-    position: absolute;
-    width: 100%;
-    height: 100%;
     background: url("pic2.jpg")  no-repeat;
     background-size: cover;
 }
 
 #section_3 {
     top: 200%;
-    position: absolute;
-    width: 100%;
-    height: 100%;
     background: url("pic3.jpg")  no-repeat;
     background-size: cover;
 }
