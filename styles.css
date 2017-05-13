@@ -11,18 +11,18 @@ section{
 
 #section_1 {
     top: 0;
-    background: url("pic1.jpg") no-repeat;
+    background: url("/pic1.jpg") no-repeat;
     background-size: cover;
     }
 
 #section_2 {
     top: 100%;
-    background: url("pic2.jpg")  no-repeat;
+    background: url("/pic2.jpg")  no-repeat;
     background-size: cover;
 }
 
 #section_3 {
     top: 200%;
-    background: url("pic3.jpg")  no-repeat;
+    background: url("/pic3.jpg")  no-repeat;
     background-size: cover;
 }
